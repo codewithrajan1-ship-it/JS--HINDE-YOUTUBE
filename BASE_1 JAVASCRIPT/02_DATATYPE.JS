@@ -20,7 +20,7 @@ SYMBOL => UNIQUE
 
 //OBJECT
 
-console.log(typeof undefined);
-console.log(typeof null);
+console.log(typeof undefined);// UNDEFINED
+console.log(typeof null);// OBJECT
 
 
